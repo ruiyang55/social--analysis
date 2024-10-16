@@ -1,1 +1,1 @@
-# social--analysis
+# Individual-Consumption-Analysis
