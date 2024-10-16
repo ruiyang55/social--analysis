@@ -1,1 +1,1 @@
-# Individual-Consumption-Analysis
+# Individual Consumption Analysis
